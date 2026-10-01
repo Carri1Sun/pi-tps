@@ -1,0 +1,26 @@
+{
+  "name": "pi-tps",
+  "version": "1.0.0",
+  "description": "Tokens-per-second (TPS) statistics extension for the Pi coding agent: live footer speed, TTFT-aware generation timing, and a /tps session report.",
+  "keywords": [
+    "pi-package",
+    "pi",
+    "pi-extension",
+    "pi-coding-agent",
+    "tokens-per-second",
+    "statistics"
+  ],
+  "files": [
+    "extensions"
+  ],
+  "peerDependencies": {
+    "@earendil-works/pi-ai": "*",
+    "@earendil-works/pi-coding-agent": "*",
+    "@earendil-works/pi-tui": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourname/pi-tps"
+  },
+  "license": "MIT"
+}
